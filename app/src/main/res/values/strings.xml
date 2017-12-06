@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="sobre">Sobre</string>
+
+    <string name="temperatura">Temperatura</string>
+    <string name="detector_de_presen_a">Detector de Presença</string>
+    <string name="casa_segura">Casa segura</string>
+    <string name="casa_invadida">Casa Invadida</string>
+    <string name="lig_deslig_comodos">Lig./Deslig. Cômodos</string>
+    <string name="sala">Sala</string>
+    <string name="quarto_1">Quarto 1</string>
+    <string name="quarto_2">Quarto 2</string>
+    <string name="ar_condicionado">Ar Condicionado</string>
+    <string name="info">Aplicativo desenvolvido por João Gabriel Quaresma, aluno do curso de Tecnologia e Análise em Desenvolvimento de Sistemas (TADS)</string>
+</resources>

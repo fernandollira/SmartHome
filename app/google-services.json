@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326293142222",
+    "firebase_url": "https://smart-home-45b06.firebaseio.com",
+    "project_id": "smart-home-45b06",
+    "storage_bucket": "smart-home-45b06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326293142222:android:15ea007a3314a7ba",
+        "android_client_info": {
+          "package_name": "com.example.quaresma.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326293142222-q3pc8mfuti8a8p6tfng58pqvriahq5vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quaresma.smarthome",
+            "certificate_hash": "a8ae85560bb784b3885a105ebb70fa45918aef74"
+          }
+        },
+        {
+          "client_id": "326293142222-303vvklpqp6amlheu8jnbg8vpb181nfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4K_GhLuqMsUjNJhk-cAk3ebpyihr2UDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326293142222-303vvklpqp6amlheu8jnbg8vpb181nfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
